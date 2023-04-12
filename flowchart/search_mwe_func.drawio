@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T06:57:18.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IKLpAPt7w36b4Di6hJZs" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T07:11:05.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xQ221-yeD7IV8zySBVfy" version="21.1.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3847" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -19,6 +19,12 @@
           <mxGeometry x="90" y="120" width="460" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-57" target="uXSJqWY1-XG1KT0R3jyK-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uXSJqWY1-XG1KT0R3jyK-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-57" target="uXSJqWY1-XG1KT0R3jyK-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uXSJqWY1-XG1KT0R3jyK-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-57" target="uXSJqWY1-XG1KT0R3jyK-254">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-57" value="mwe_trie, word_trie, df, txt, base_url" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
@@ -71,6 +77,14 @@
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-72" target="uXSJqWY1-XG1KT0R3jyK-74">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uXSJqWY1-XG1KT0R3jyK-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-72" target="uXSJqWY1-XG1KT0R3jyK-258">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="430" />
+              <mxPoint x="320" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-72" value="res_arr = json.loads(soup.text)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="420" width="180" height="20" as="geometry" />
@@ -591,6 +605,15 @@
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-250" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="750.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uXSJqWY1-XG1KT0R3jyK-252" value="df: dataframe&lt;br&gt;base: nlp-web-demo үгийн задаргаа авах API" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;align=left;" vertex="1" parent="1">
+          <mxGeometry x="455" y="182.5" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="uXSJqWY1-XG1KT0R3jyK-254" value="txt: &quot;Үл&amp;nbsp;хөдлөх&amp;nbsp;хөрөнгөтэй&amp;nbsp;холбоотой.&quot;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="455" y="240" width="225" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="uXSJqWY1-XG1KT0R3jyK-258" value="&lt;div style=&quot;text-align: justify;&quot;&gt;res_arr:&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;[&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; [&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;word&quot;: &quot;Үл&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;lemma&quot;: &quot;[үл+V]&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;posTag&quot;: &quot;N&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;nameType&quot;: &quot;O&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;word&quot;: &quot;хөдлөх&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;lemma&quot;: &quot;[хөдөл+V+Vdv]&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;posTag&quot;: &quot;VB&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;nameType&quot;: &quot;O&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;stopWordType&quot;: &quot;None&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;word&quot;: &quot;хөрөнгөтэй&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;lemma&quot;: &quot;[хөрөнгө+N+Sg+Com]&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;posTag&quot;: &quot;NM&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;nameType&quot;: &quot;O&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;stopWordType&quot;: &quot;None&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&amp;nbsp; &amp;nbsp; ]&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;]&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
+          <mxGeometry x="390" y="440" width="230" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
