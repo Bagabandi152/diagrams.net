@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T07:11:25.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oMq11NpvqCqPVM-BFF_y" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T07:11:54.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QxTDP6a8DJg2txhmI3OG" version="21.1.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4544" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,22 +61,14 @@
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-67" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="415" y="310" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uXSJqWY1-XG1KT0R3jyK-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-69" target="uXSJqWY1-XG1KT0R3jyK-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="520" />
-              <mxPoint x="200" y="520" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="uXSJqWY1-XG1KT0R3jyK-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-69" target="uXSJqWY1-XG1KT0R3jyK-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-69" value="soup = BeautifulSoup(res.text,, &#39;html.parser&#39;)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="380" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-71" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="174" y="310" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uXSJqWY1-XG1KT0R3jyK-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-72" target="uXSJqWY1-XG1KT0R3jyK-74">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-72" target="uXSJqWY1-XG1KT0R3jyK-258">
           <mxGeometry relative="1" as="geometry">
@@ -86,8 +78,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uXSJqWY1-XG1KT0R3jyK-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-72" target="uXSJqWY1-XG1KT0R3jyK-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200.21739130434798" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-72" value="res_arr = json.loads(soup.text)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="420" width="180" height="20" as="geometry" />
+          <mxGeometry x="110" y="430" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-74" target="uXSJqWY1-XG1KT0R3jyK-78">
           <mxGeometry relative="1" as="geometry" />
