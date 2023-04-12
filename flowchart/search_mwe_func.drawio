@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T07:21:16.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="b6Zk2bQzindT7MU92o0e" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T07:34:28.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mN5xpq5zfxRhZYZn5ebF" version="21.1.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4945" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3400" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -482,7 +482,7 @@
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.038;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-203" target="uXSJqWY1-XG1KT0R3jyK-246">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uXSJqWY1-XG1KT0R3jyK-203" value="node = self.root, t_node_list = []&lt;br&gt;i = 0" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="uXSJqWY1-XG1KT0R3jyK-203" value="node = self.root, t_node_list = [],&lt;br&gt;i = 0" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-496.3" y="580" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uXSJqWY1-XG1KT0R3jyK-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uXSJqWY1-XG1KT0R3jyK-207" target="uXSJqWY1-XG1KT0R3jyK-213">
