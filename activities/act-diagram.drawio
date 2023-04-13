@@ -1,0 +1,248 @@
+<mxfile host="app.diagrams.net" modified="2023-04-09T07:40:29.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DaCWDZIjQC4crdv5Wiyk" version="21.1.5" type="device" pages="2">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1050" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-43" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="190" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-44" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="YRfmTEaoxgoKZ7beszuQ-43" target="YRfmTEaoxgoKZ7beszuQ-45" edge="1">
+          <mxGeometry x="-54.5" y="-118" as="geometry">
+            <mxPoint x="125" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-45" value="Баримт бичиг &#xa;байршуулах" style="" parent="1" vertex="1">
+          <mxGeometry x="150" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-46" value="Баримт бичигт &#xa;шинжилгээ хийх" style="" parent="1" vertex="1">
+          <mxGeometry x="150" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-47" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="YRfmTEaoxgoKZ7beszuQ-45" target="YRfmTEaoxgoKZ7beszuQ-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YRfmTEaoxgoKZ7beszuQ-48" target="YRfmTEaoxgoKZ7beszuQ-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145.5" y="446" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="530" />
+              <mxPoint x="280" y="530" />
+              <mxPoint x="280" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-48" value="Баримт бичгийг &#xa;текст файл руу&#xa;хөрвүүлэх" style="" parent="1" vertex="1">
+          <mxGeometry x="150" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-49" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="YRfmTEaoxgoKZ7beszuQ-46" target="YRfmTEaoxgoKZ7beszuQ-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YRfmTEaoxgoKZ7beszuQ-56" target="oKRjK_xwlJoX3ZVG-Z-z-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-56" value="Текст файлаас &#xa;мөр унших" style="" parent="1" vertex="1">
+          <mxGeometry x="310" y="295" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YRfmTEaoxgoKZ7beszuQ-58" target="YRfmTEaoxgoKZ7beszuQ-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YRfmTEaoxgoKZ7beszuQ-58" target="oKRjK_xwlJoX3ZVG-Z-z-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-58" value="Нэр томьёо олдсон эсэх" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="610" y="295" width="190" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YRfmTEaoxgoKZ7beszuQ-64" target="YRfmTEaoxgoKZ7beszuQ-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-64" value="Хайлтын &#xa;алгоритмийг&#xa;ажиллуулах" style="" parent="1" vertex="1">
+          <mxGeometry x="475" y="295" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-65" value="Тест файлын мөрүүдээр гүйх" style="shape=note;whiteSpace=wrap;size=17" parent="1" vertex="1">
+          <mxGeometry x="290" y="430" width="119.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-66" value="" style="endArrow=none;strokeColor=#FF0000;endFill=0;rounded=0;dashed=1" parent="1" source="YRfmTEaoxgoKZ7beszuQ-56" target="YRfmTEaoxgoKZ7beszuQ-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YRfmTEaoxgoKZ7beszuQ-73" target="oKRjK_xwlJoX3ZVG-Z-z-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="705" y="460" />
+              <mxPoint x="810" y="460" />
+              <mxPoint x="810" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-73" value="Тухайн нэр томьёог &#xa;annotation tag хийх" style="" parent="1" vertex="1">
+          <mxGeometry x="650" y="395" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YRfmTEaoxgoKZ7beszuQ-74" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="840" y="490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oKRjK_xwlJoX3ZVG-Z-z-31" target="YRfmTEaoxgoKZ7beszuQ-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oKRjK_xwlJoX3ZVG-Z-z-31" target="oKRjK_xwlJoX3ZVG-Z-z-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.8823529411766" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-31" value="Мөр хоосон эсэх" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="385.5" y="389" width="130" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-34" value="Үгүй&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="440" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-37" value="Үгүй" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="705.5" y="250" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-39" value="Тийм" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="707" y="365" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oKRjK_xwlJoX3ZVG-Z-z-41" target="YRfmTEaoxgoKZ7beszuQ-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-41" value="Тэмдэг мөрийг html &#xa;тэмдэгт мөр болгон&#xa;хадгална" style="" parent="1" vertex="1">
+          <mxGeometry x="500" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-46" value="Тийм" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="465.5" y="437" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G99kM5Zj17-4odFcTT4d-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oKRjK_xwlJoX3ZVG-Z-z-47" target="G99kM5Zj17-4odFcTT4d-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKRjK_xwlJoX3ZVG-Z-z-47" value="Хадгалсан html &#xa;тэмдэгт мөрийг .html болгон&#xa;хадгалах" style="" parent="1" vertex="1">
+          <mxGeometry x="460" y="480" width="165.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G99kM5Zj17-4odFcTT4d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G99kM5Zj17-4odFcTT4d-1" target="YRfmTEaoxgoKZ7beszuQ-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G99kM5Zj17-4odFcTT4d-1" value="Хадгалсан html файлыг &#xa;зурж харуулах" style="" parent="1" vertex="1">
+          <mxGeometry x="649.25" y="480" width="165.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ARyZZGXaoYMsZuW7tOuq" name="Page-2">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-1" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="135" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-1" target="1Hme_Ww1k1hKq2NaKgtS-3" edge="1">
+          <mxGeometry x="-109.5" y="-288" as="geometry">
+            <mxPoint x="70" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-3" value="Үндсэн мэдээлэл&#xa;харах" style="" parent="1" vertex="1">
+          <mxGeometry x="95" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-4" value="сoocur.tsv файлыг &#xa;унших" style="" parent="1" vertex="1">
+          <mxGeometry x="95" y="210" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-5" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-3" target="1Hme_Ww1k1hKq2NaKgtS-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-7" target="1Hme_Ww1k1hKq2NaKgtS-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90.5" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-7" value="сoocur.tsv файлыг&#xa;json рүү хөрвүүлэх" style="" parent="1" vertex="1">
+          <mxGeometry x="95" y="290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-8" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-4" target="1Hme_Ww1k1hKq2NaKgtS-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-10" target="1Hme_Ww1k1hKq2NaKgtS-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-10" value="Текст файлаас &#xa;мөр унших" style="" parent="1" vertex="1">
+          <mxGeometry x="255" y="125" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-13" target="1Hme_Ww1k1hKq2NaKgtS-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-13" target="1Hme_Ww1k1hKq2NaKgtS-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-13" value="Нэр томьёо олдсон эсэх" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="555" y="125" width="190" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-15" target="1Hme_Ww1k1hKq2NaKgtS-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-15" value="Хайлтын &#xa;алгоритмийг&#xa;ажиллуулах" style="" parent="1" vertex="1">
+          <mxGeometry x="420" y="125" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-16" value="Тест файлын мөрүүдээр гүйх" style="shape=note;whiteSpace=wrap;size=17" parent="1" vertex="1">
+          <mxGeometry x="235" y="260" width="119.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-17" value="" style="endArrow=none;strokeColor=#FF0000;endFill=0;rounded=0;dashed=1" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-10" target="1Hme_Ww1k1hKq2NaKgtS-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-19" target="1Hme_Ww1k1hKq2NaKgtS-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="290" />
+              <mxPoint x="755" y="290" />
+              <mxPoint x="755" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-19" value="Тухайн нэр томьёог &#xa;annotation tag хийх" style="" parent="1" vertex="1">
+          <mxGeometry x="595" y="225" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-20" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="1" vertex="1">
+          <mxGeometry x="472.75" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-23" target="1Hme_Ww1k1hKq2NaKgtS-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-23" target="1Hme_Ww1k1hKq2NaKgtS-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395.8823529411766" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-23" value="Мөр хоосон эсэх" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="330.5" y="219" width="130" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-24" value="Үгүй&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="385" y="180" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-25" value="Үгүй" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650.5" y="80" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-26" value="Тийм" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="652" y="195" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-28" target="1Hme_Ww1k1hKq2NaKgtS-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-28" value="Тэмдэг мөрийг html &#xa;тэмдэгт мөр болгон&#xa;хадгална" style="" parent="1" vertex="1">
+          <mxGeometry x="445" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-29" value="Тийм" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410.5" y="267" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-31" target="1Hme_Ww1k1hKq2NaKgtS-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Hme_Ww1k1hKq2NaKgtS-31" value="Хадгалсан html &#xa;тэмдэгт мөрийг .html болгон&#xa;хадгална" style="" parent="1" vertex="1">
+          <mxGeometry x="405" y="310" width="165.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sYixf7eS8tiVcqnAGIzp-1" value="coocur.tsv файл нь эрх зүйн нэгдсэн мэдээллийн систем(legalinfo.mn)- ээс scraping хийж авсан өгөгдөл бөгөөд өөрийн ID, томьёоны ID, хуулийн баримт бичгийн ID гэсэн бүтэцтэй" style="shape=note;whiteSpace=wrap;size=17" parent="1" vertex="1">
+          <mxGeometry x="15" y="350" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sYixf7eS8tiVcqnAGIzp-4" value="" style="endArrow=none;strokeColor=#FF0000;endFill=0;rounded=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=51.25;entryDy=0;entryPerimeter=0;" parent="1" source="1Hme_Ww1k1hKq2NaKgtS-4" target="sYixf7eS8tiVcqnAGIzp-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59" y="255" as="sourcePoint" />
+            <mxPoint x="50" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
