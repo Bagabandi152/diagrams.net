@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T02:12:04.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7X84reCEeJH-nmJXEhiU" version="21.1.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-13T02:26:34.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1xI8S_3q4R8osULDycr1" version="21.1.6" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="4100" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -638,16 +638,175 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BIaFrZ3SEzWMur4gxATW-1" value="start" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="20" width="120" height="30" as="geometry" />
+          <mxGeometry x="305" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BIaFrZ3SEzWMur4gxATW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-2" target="BIaFrZ3SEzWMur4gxATW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BIaFrZ3SEzWMur4gxATW-2" value="lterm_list = [], rows" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="80" width="150" height="30" as="geometry" />
+          <mxGeometry x="290" y="80" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-6" target="BIaFrZ3SEzWMur4gxATW-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BIaFrZ3SEzWMur4gxATW-6" value="txt_df" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="120" height="20" as="geometry" />
+          <mxGeometry x="305" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-8" target="BIaFrZ3SEzWMur4gxATW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-8" target="BIaFrZ3SEzWMur4gxATW-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-8" value="row == last of rows" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-10" target="BIaFrZ3SEzWMur4gxATW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-10" value="law_txt = row[0].lower().strip()" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="260" width="255" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-12" target="BIaFrZ3SEzWMur4gxATW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-12" value="title_matches = re.findall(r&#39;\.&quot;([^&quot;]*)&quot;\sгэж\s&#39;, law_txt)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253.75" y="310" width="222.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-14" target="BIaFrZ3SEzWMur4gxATW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-14" target="BIaFrZ3SEzWMur4gxATW-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-14" value="len(title_matches) &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="370" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-16" target="BIaFrZ3SEzWMur4gxATW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-16" value="desc_matches = re.findall(r&#39;\sгэж\s.*&#39;, law_txt)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-19" target="BIaFrZ3SEzWMur4gxATW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-19" value="t_mtch = title_matches[0].strip().lower()" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-21" target="BIaFrZ3SEzWMur4gxATW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-21" value="&lt;div&gt;d_mtch = desc_matches[0].replace(&#39; гэж &#39;, &#39;&#39;).replace(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;;&#39;, &#39;&#39;).replace(&#39;.&#39;, &#39;&#39;).strip().lower()&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-23" target="BIaFrZ3SEzWMur4gxATW-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-23" value="&lt;div&gt;slt = t_mtch.split(&#39; &#39;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="590" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-25" target="BIaFrZ3SEzWMur4gxATW-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-25" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; lt = LegalTerm(t_mtch, d_mtch, &#39;NM&#39;, slt[len(slt) - 1])&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="630" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="700" />
+              <mxPoint x="770" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-27" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;lterm_list.append(lt)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496.25" y="670" width="117.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-29" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="386" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-30" target="BIaFrZ3SEzWMur4gxATW-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-30" value="title_matches = re.findall(r&#39;\.“([^“]*)”\sгэж\s&#39;, law_txt)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-33" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="386" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-34" target="BIaFrZ3SEzWMur4gxATW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-34" target="BIaFrZ3SEzWMur4gxATW-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="550" />
+              <mxPoint x="30" y="890" />
+              <mxPoint x="770" y="890" />
+              <mxPoint x="770" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-34" value="len(title_matches) &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="510" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-37" target="BIaFrZ3SEzWMur4gxATW-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-37" value="desc_matches = re.findall(r&#39;\sгэж\s.*&#39;, law_txt)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="620" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-39" target="BIaFrZ3SEzWMur4gxATW-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-39" value="t_mtch = title_matches[0].strip().lower()" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-41" target="BIaFrZ3SEzWMur4gxATW-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-41" value="&lt;div&gt;d_mtch = desc_matches[0].replace(&#39; гэж &#39;, &#39;&#39;).replace(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;;&#39;, &#39;&#39;).replace(&#39;.&#39;, &#39;&#39;).strip().lower()&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="720" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-43" target="BIaFrZ3SEzWMur4gxATW-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-43" value="&lt;div&gt;slt = t_mtch.split(&#39; &#39;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="770" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-45" target="BIaFrZ3SEzWMur4gxATW-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-45" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; lt = LegalTerm(t_mtch, d_mtch, &#39;NM&#39;, slt[len(slt) - 1])&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="810" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BIaFrZ3SEzWMur4gxATW-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-46" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;lterm_list.append(lt)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="156.25" y="850" width="117.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-48" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="206.75" y="587" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-52" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="525" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-54" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="225" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-57" value="return lterm_list" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="185" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BIaFrZ3SEzWMur4gxATW-58" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="175" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
