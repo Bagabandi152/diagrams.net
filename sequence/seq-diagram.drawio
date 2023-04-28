@@ -1,40 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T04:08:58.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="OAU9HCyEYWKiwIcMlMWd" version="21.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-28T05:09:07.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cALiX-PG0q7ynnAr3Z4j" version="21.2.1" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7baba1c4bc27f4b0-2" value="Эрх зүйн мэдээллийн нэгдсэн систем" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" parent="1" vertex="1">
-          <mxGeometry x="250" y="80" width="100" height="730" as="geometry" />
+          <mxGeometry x="250" y="80" width="100" height="770" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="7baba1c4bc27f4b0-3" value="Нэр томьёо танилтын алгоритм" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="100" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="45" y="550" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-3" value="Нэр томьёо танилтын алгоритм" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" parent="1" vertex="1">
-          <mxGeometry x="400" y="80" width="100" height="740" as="geometry" />
+        <mxCell id="Niq4UcUxrpElZs_i6L5h-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-3">
+          <mxGeometry x="45" y="610" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-11" value="TXT файл" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="7baba1c4bc27f4b0-3">
+        <mxCell id="7baba1c4bc27f4b0-4" value="Монгол хэл боловсруулалтын&lt;br&gt;үзүүлэн хуудас" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" parent="1" vertex="1">
+          <mxGeometry x="550" y="80" width="130" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-4" vertex="1">
+          <mxGeometry x="60" y="570" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-11" value="Тэмдэгт мөр" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=0.626;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7baba1c4bc27f4b0-4" edge="1" target="IfJJwub_q2aBxfD1-8Eh-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-95" y="570" as="sourcePoint" />
             <mxPoint x="50" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-3">
-          <mxGeometry x="45" y="570" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-4" value="Монгол хэл боловсруулалтын&lt;br&gt;үзүүлэн хуудас" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" parent="1" vertex="1">
-          <mxGeometry x="550" y="80" width="130" height="580" as="geometry" />
+        <mxCell id="Niq4UcUxrpElZs_i6L5h-3" value="үгсийн үндсэн &lt;br&gt;задаргаа" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="7baba1c4bc27f4b0-4" source="7baba1c4bc27f4b0-4">
+          <mxGeometry x="-0.0714" relative="1" as="geometry">
+            <mxPoint x="-100" y="610.05" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="50" y="610.05" as="sourcePoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-5" value="Хуулийн баримт бичгээс нэр томьсо түүж авах алгоритм" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" parent="1" vertex="1">
-          <mxGeometry x="730" y="80" width="140" height="580" as="geometry" />
+          <mxGeometry x="730" y="80" width="140" height="770" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-5" vertex="1">
           <mxGeometry x="65" y="350" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-4" value="хуулийн нэр томьёо" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="7baba1c4bc27f4b0-5" target="7baba1c4bc27f4b0-8">
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-4" value="хуулийн нэр томьёо" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="7baba1c4bc27f4b0-5" target="7baba1c4bc27f4b0-8" edge="1">
           <mxGeometry x="-0.0714" relative="1" as="geometry">
             <mxPoint x="-140" y="380.28999999999996" as="targetPoint" />
             <Array as="points" />
@@ -43,12 +54,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value="DAS&lt;br&gt;Баримт бичиг шинжилгээний&lt;br&gt;систем" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=60;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="100" height="1000" as="geometry" />
+          <mxGeometry x="40" y="80" width="100" height="770" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="iuhKvNe6IErVvNT_lTT4-1" value="хуулийн баримт &lt;br&gt;бичиг, хуулийн нэр&lt;br&gt;томьёоны жагсаалт" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="7baba1c4bc27f4b0-8" edge="1" source="7baba1c4bc27f4b0-2">
+        <mxCell id="iuhKvNe6IErVvNT_lTT4-1" value="хуулийн баримт &lt;br&gt;бичиг, хуулийн нэр&lt;br&gt;томьёоны жагсаалт" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="7baba1c4bc27f4b0-8" source="7baba1c4bc27f4b0-2" edge="1">
           <mxGeometry x="-0.0714" relative="1" as="geometry">
             <mxPoint x="55" y="171.29" as="targetPoint" />
             <Array as="points">
@@ -73,10 +84,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-8">
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="49" y="290" width="10" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-2" value="хуулийн баримт&lt;br&gt;бичгүүдийг TXT файл &lt;br&gt;руу хөрвүүлэх" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-8">
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-2" value="хуулийн баримт&lt;br&gt;бичгүүдийг TXT файл &lt;br&gt;руу хөрвүүлэх" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="7baba1c4bc27f4b0-8" edge="1">
           <mxGeometry x="0.0569" y="60" relative="1" as="geometry">
             <mxPoint x="55" y="290" as="sourcePoint" />
             <mxPoint x="60" y="328" as="targetPoint" />
@@ -87,13 +98,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-8">
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="45" y="382" width="10" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-8">
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="49" y="411" width="10" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-6" value="TXT файл дах хуулийн&lt;br&gt;нэр томьёогоор&lt;br&gt;TSV үүсгэх" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-8">
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-6" value="TXT файл дах хуулийн&lt;br&gt;нэр томьёогоор&lt;br&gt;TSV үүсгэх" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="7baba1c4bc27f4b0-8" edge="1">
           <mxGeometry x="0.0569" y="60" relative="1" as="geometry">
             <mxPoint x="57" y="411" as="sourcePoint" />
             <mxPoint x="62" y="449" as="targetPoint" />
@@ -104,18 +115,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-8">
-          <mxGeometry x="49" y="480" width="10" height="47" as="geometry" />
+        <mxCell id="Niq4UcUxrpElZs_i6L5h-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-8">
+          <mxGeometry x="45" y="630" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-8" value="TSV файлуудыг&lt;br&gt;нэгтгэх" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-8">
-          <mxGeometry x="0.0569" y="30" relative="1" as="geometry">
-            <mxPoint x="55.06" y="480" as="sourcePoint" />
-            <mxPoint x="60.06" y="518" as="targetPoint" />
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
+          <mxGeometry x="49" y="656.5" width="10" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-8" value="TXT файл дах &lt;br&gt;нэр томьёонуудыг &lt;br&gt;TSV файл болгож&lt;br&gt;хадгалах" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="7baba1c4bc27f4b0-8" edge="1">
+          <mxGeometry x="0.3495" y="60" relative="1" as="geometry">
+            <mxPoint x="55.06" y="656.5" as="sourcePoint" />
+            <mxPoint x="60.06" y="694.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100.06" y="480" />
-              <mxPoint x="100.06" y="518" />
+              <mxPoint x="100.06" y="656.5" />
+              <mxPoint x="100.06" y="694.5" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="60" y="-54" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-23" value="TXT файл" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.3;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-28" edge="1">
@@ -129,10 +143,18 @@
             <mxPoint x="220" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IfJJwub_q2aBxfD1-8Eh-10" value="TXT файл" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+        <mxCell id="IfJJwub_q2aBxfD1-8Eh-10" value="TXT файл, нэгтгэсэн TSV файл" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" edge="1" target="7baba1c4bc27f4b0-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="630" as="sourcePoint" />
             <mxPoint x="300" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Niq4UcUxrpElZs_i6L5h-5" value="TXT файл дах &lt;br&gt;хуулийннэр томьёонууд" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="7baba1c4bc27f4b0-8">
+          <mxGeometry x="-0.0714" relative="1" as="geometry">
+            <mxPoint x="300" y="710.05" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="450" y="710" as="sourcePoint" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
