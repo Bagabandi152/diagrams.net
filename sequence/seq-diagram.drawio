@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T05:09:35.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="udZHA5QBGElXwWcBZ73V" version="21.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-28T05:11:50.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Vp5hzFtpmlDyGB99nAjW" version="21.2.1" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1615" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-5" value="Хуулийн баримт бичгээс нэр томьсо түүж авах алгоритм" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-5" value="Хуулийн баримт бичгээс хуулийн нэр томьёо түүж авах алгоритм" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=70;" parent="1" vertex="1">
           <mxGeometry x="730" y="80" width="140" height="770" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-5" vertex="1">
@@ -130,6 +130,20 @@
               <mxPoint x="100.06" y="694.5" />
             </Array>
             <mxPoint x="60" y="-54" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Niq4UcUxrpElZs_i6L5h-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-8">
+          <mxGeometry x="49" y="480" width="10" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Niq4UcUxrpElZs_i6L5h-18" value="TSV файлуудыг&lt;br&gt;нэгтгэх" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-8">
+          <mxGeometry x="0.0569" y="60" relative="1" as="geometry">
+            <mxPoint x="57" y="480" as="sourcePoint" />
+            <mxPoint x="62" y="518" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="102" y="480" />
+              <mxPoint x="102" y="518" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-23" value="TXT файл" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.3;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-28" edge="1">
