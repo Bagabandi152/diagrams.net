@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T05:25:06.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Fg9p1AC-aWAPKgreBUkc" version="21.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-28T05:25:21.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Yob9Kff0ZdPQRDmL2Efn" version="21.2.1" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1615" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-3" value="Нэр томьёо танилтын алгоритм" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" vertex="1" parent="1">
-          <mxGeometry x="430" y="50" width="100" height="550" as="geometry" />
+          <mxGeometry x="490" y="60" width="100" height="550" as="geometry" />
         </mxCell>
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="F4zDd7Y4hFYE68Fqb3w9-3">
           <mxGeometry x="45" y="260" width="10" height="20" as="geometry" />
@@ -189,7 +189,7 @@
           <mxGeometry x="45" y="320" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-6" value="Монгол хэл боловсруулалтын&lt;br&gt;үзүүлэн хуудас" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" vertex="1" parent="1">
-          <mxGeometry x="580" y="50" width="130" height="550" as="geometry" />
+          <mxGeometry x="640" y="60" width="130" height="550" as="geometry" />
         </mxCell>
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="F4zDd7Y4hFYE68Fqb3w9-6">
           <mxGeometry x="60" y="280" width="10" height="40" as="geometry" />
@@ -209,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-13" value="DAS&lt;br&gt;Баримт бичиг шинжилгээний&lt;br&gt;систем" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=60;" vertex="1" parent="1">
-          <mxGeometry x="190" y="50" width="100" height="550" as="geometry" />
+          <mxGeometry x="250" y="60" width="100" height="550" as="geometry" />
         </mxCell>
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="F4zDd7Y4hFYE68Fqb3w9-13">
           <mxGeometry x="45" y="140" width="10" height="120" as="geometry" />
@@ -261,20 +261,20 @@
         </mxCell>
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-30" value="TXT файл, хуулийн &lt;br&gt;нэр томьёоны TSV файл" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="310" as="sourcePoint" />
-            <mxPoint x="479.5" y="310" as="targetPoint" />
+            <mxPoint x="300" y="320" as="sourcePoint" />
+            <mxPoint x="539.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-31" value="TXT файл дах &lt;br&gt;хуулийн нэр томьёонууд" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry x="-0.0714" relative="1" as="geometry">
-            <mxPoint x="238.96153846153857" y="390.30769230769215" as="targetPoint" />
+            <mxPoint x="298.96153846153857" y="400.30769230769215" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="480" y="390" as="sourcePoint" />
+            <mxPoint x="540" y="400" as="sourcePoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-32" value="Хэрэглэгч" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;size=50;" vertex="1" parent="1">
-          <mxGeometry x="20" y="50" width="100" height="550" as="geometry" />
+          <mxGeometry x="80" y="60" width="100" height="550" as="geometry" />
         </mxCell>
         <mxCell id="F4zDd7Y4hFYE68Fqb3w9-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="F4zDd7Y4hFYE68Fqb3w9-32">
           <mxGeometry x="45" y="100" width="10" height="40" as="geometry" />
