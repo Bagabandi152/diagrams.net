@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T03:09:08.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_T-X4ryOUJ5qNG1Iffbh" version="21.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-09T07:11:58.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mtHJw4e2X39ct2FJd3j8" version="21.2.4" type="github" pages="2">
   <diagram name="Page-1" id="9uIH1SKXsFeyWn5DoPZV">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -129,14 +129,17 @@
         <mxCell id="wG679VFZKm3kb_WfDca5-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;button&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="591" y="120" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wG679VFZKm3kb_WfDca5-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wG679VFZKm3kb_WfDca5-12" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 8px; background-color: initial;&quot;&gt;&lt;b&gt;Lorem Ipsum &lt;/b&gt;has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type &lt;b&gt;specimen book.&lt;/b&gt; It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="591" y="150" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="wG679VFZKm3kb_WfDca5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wG679VFZKm3kb_WfDca5-13" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Galley&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Scrambled S&lt;/span&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;pecimen book&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;Lorem Ipsum&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Unknown printer Galley&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Scrambled S&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;pecimen book&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Lorem Ipsum&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Unknown printer Galley&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Scrambled S&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;pecimen book&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="150" width="70" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="wG679VFZKm3kb_WfDca5-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wG679VFZKm3kb_WfDca5-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Lorem ipsum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="150" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wG679VFZKm3kb_WfDca5-15" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&amp;nbsp;is simply dummy text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="581" y="122" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
